@@ -28,9 +28,9 @@ section {
   scrollbar-width: thin;
 }
 
-.body p {
-  text-align: center;
-}
+  body {
+    text-align: center;
+  }
 
 .timeline-card {
   background-color: #ffffff;
